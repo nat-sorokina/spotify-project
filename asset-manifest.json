@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spotify-project/static/css/main.1f1b9bde.css",
+    "main.js": "/spotify-project/static/js/main.6977f404.js",
+    "static/media/volodymyr-hryshchenko-D5_cfqMAY0Y-unsplash.jpg": "/spotify-project/static/media/volodymyr-hryshchenko-D5_cfqMAY0Y-unsplash.777de408c382c6920d8c.jpg",
+    "index.html": "/spotify-project/index.html",
+    "main.1f1b9bde.css.map": "/spotify-project/static/css/main.1f1b9bde.css.map",
+    "main.6977f404.js.map": "/spotify-project/static/js/main.6977f404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f1b9bde.css",
+    "static/js/main.6977f404.js"
+  ]
+}
